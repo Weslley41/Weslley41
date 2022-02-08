@@ -1,5 +1,11 @@
 ## :man_technologist: Oi, eu sou o Weslley
 
+:seedling: Aprendendo um pouco mais a cada dia
+
+:books: Estudante de Ciências da Computação - UESPI
+
+:computer: Técnico em informática - IFPI
+
 <div align="center">
   <a href="https://github.com/Weslley41">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley41&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=github_dark"/>
