@@ -1,24 +1,31 @@
-## :man_technologist: Oi, eu sou o Weslley
+# Hey!!! :wave: I'm Weslley! :space_invader::soccer:
 
-:seedling: Aprendendo um pouco mais a cada dia
+There, I share personal projects related to my learning journey as well as my college studies. Feel free to explore my projects and don't hesitate to provide any feedback, suggestions, or ask any questions you may have.
 
-:books: Estudante de Ciências da Computação - UESPI
+## :computer: About me
 
-:computer: Técnico em informática - IFPI
+:brazil: I'm a Brazilian guy!
 
-<div align="center">
-  <a href="https://github.com/Weslley41">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley41&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley41&hide_border=true&layout=compact&theme=github_dark"/>
-</div>
+:books: Student of Computer Science at UESPI
 
-## :hammer: Linguagens e ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+:computer: Currently working with Python and Django
+
+:seedling: Currently learning about RESTful APIs
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weslley41&theme=github_dark#gh-dark-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weslley41&theme=github#gh-light-mode-only)
+
+## :hammer: Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## :toolbox: Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
