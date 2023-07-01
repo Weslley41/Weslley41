@@ -12,8 +12,7 @@ There, I share personal projects related to my learning journey as well as my co
 
 :seedling: Currently learning about RESTful APIs
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weslley41&theme=github_dark#gh-dark-mode-only)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weslley41&theme=github#gh-light-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weslley41&theme=github_dark)
 
 ## :hammer: Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
