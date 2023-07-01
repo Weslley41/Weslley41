@@ -1,6 +1,6 @@
 # Hey!!! :wave: I'm Weslley! :space_invader::soccer:
 
-There, I share personal projects related to my learning journey as well as my college studies. Feel free to explore my projects and don't hesitate to provide any feedback, suggestions, or ask any questions you may have.
+Here, I share personal projects related to my learning journey as well as my college studies. Feel free to explore my projects and don't hesitate to provide any feedback, suggestions, or ask any questions you may have.
 
 ## :computer: About me
 
