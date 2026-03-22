@@ -1,30 +1,37 @@
-# Hey!!! :wave: I'm Weslley! :space_invader::soccer:
+# Hey! :wave: I'm Weslley! :space_invader::soccer:
 
-Here, I share personal projects related to my learning journey as well as my college studies. Feel free to explore my projects and don't hesitate to provide any feedback, suggestions, or ask any questions you may have.
+Here, I share personal projects related to my learning journey as well as my studies. Feel free to explore my projects and don't hesitate to provide any feedback, suggestions, or ask any questions you may have.
 
 ## :computer: About me
 
-:brazil: I'm a Brazilian guy!
+:brazil: From Brazil
 
-:books: Student of Computer Science at UESPI
+:books: Graduated in Computer Science (Bachelor) at UESPI
 
-:computer: Currently working with Python and Django
+:computer: Building web apps with TypeScript, SvelteKit and NestJS
 
-:seedling: Currently learning about RESTful APIs
+:seedling: Learning Cybersecurity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weslley41&theme=github_dark)
 
-## :hammer: Tech Stack
+## :hammer: Current Tech Stack
+![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/sveltekit-ff3e00?style=for-the-badge&logo=svelte&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## :gear: Other Tech
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## :toolbox: Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
